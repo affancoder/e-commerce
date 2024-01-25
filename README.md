@@ -11,7 +11,7 @@ The primary objective of this project is to showcase a mastery of front-end tech
 ### Key Technologies
 
 - *HTML & CSS:* These foundational languages were employed to structure content and style elements, ensuring a polished and engaging visual presentation.
-- *JavaScript:* Functionality and interactivity are brought to life through JavaScript, allowing users to explore dynamic features such as adding items to the cart and enhancing the overall user experience.
+- *JavaScript:* Functionality and interactivity are brought to life through JavaScript, allowing users to explore dynamic features such as carousel, bact to top and enhancing the overall user experience.
 - *Bootstrap:* Leveraging the power of Bootstrap, the project benefits from a responsive and mobile-first design approach, guaranteeing a consistent and intuitive interface across diverse devices.
 
 ### Responsive Design Philosophy
@@ -28,7 +28,7 @@ Dive into the Amazon Clone and discover a host of features designed to emulate t
 
 1. *Clone Repository:*
    bash
-   git clone https://github.com/your-username/amazon-clone.git
+   git clone https://github.com/affancoder/e-commerce.git
    
 
 2. *Open Project:*
