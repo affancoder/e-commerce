@@ -659,10 +659,10 @@ footer h5 {
   }
 
   .box h2 {
-    font-size: 0.7rem !important;
+    font-size: 0.9rem !important;
   }
   .box img {
-    height: 62px;
+    height: 60px;
     width: 63px;
   }
 
@@ -673,6 +673,10 @@ footer h5 {
 
   .shop-section .box p {
     font-size: 0.7rem;
+  }
+
+  #seaon {
+    display: none;
   }
 
   /*------------------today deals----------------- */
