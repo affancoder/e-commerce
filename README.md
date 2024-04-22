@@ -78,7 +78,3 @@ GitHub: https://github.com/affancoder
 ## Feedback
 
 If you have any feedback, please reach out to us at affanasgar8@gmail.com
-
----
-
-Feel free to further customize the overview and details based on the nuances and specifics of your Amazon Clone project.
