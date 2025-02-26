@@ -36,9 +36,9 @@ body {
 .border0 {
   border: 2px solid transparent;
 }
+
 .border0:hover {
-  border: 1px solid white;
-  padding: none;
+  cursor: pointer;
 }
 
 /* box 2  */
@@ -566,12 +566,15 @@ footer h5 {
   text-decoration: underline;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 768px) {
+
   HTML,
   body {
     height: 100%;
+    width: 100%;
     overflow-x: hidden !important;
-    background-color: #dddada !important;
+    /* background-color: #dddada !important; */
+    background-color: aliceblue !important;
     overflow-y: scroll !important;
   }
   /*--------------------navbar------------------- */
@@ -624,13 +627,15 @@ footer h5 {
   #hero_image5_res {
     height: 140px !important;
   }
-  .card-box-product {
+
+  /* .card-box-product {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     border: border-box;
     margin: 10px;
-  }
+  } */
+
   .shop-section .box {
     display: flex;
     flex-direction: row;
@@ -638,7 +643,7 @@ footer h5 {
   }
 
   #sep {
-    height: 200px;
+    height: 250px;
   }
 
   /* -----------card-------------- */
@@ -666,6 +671,15 @@ footer h5 {
     width: 63px;
   }
 
+  .box1 p{
+    /* color:red; */
+    margin-top: 6px;
+  }
+
+  .box2 p{
+    margin-top: 2px;
+  }
+
   .shop-section .box {
     margin: 1px;
     margin-top: -245px;
@@ -688,7 +702,7 @@ footer h5 {
   .today_deals_container {
     height: 288px;
     width: 100%;
-    margin-top: -10px;
+    /* margin-top: -10px; */
     margin-left: auto;
     z-index: 100;
   }
@@ -798,4 +812,9 @@ footer h5 {
     height: 80px;
     padding: 40px 12px;
   }
+
+  .hero-section{
+    width: 100%;
+  }
+
 }
